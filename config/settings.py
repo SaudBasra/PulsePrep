@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-*gm9ehhq^vj5spmcam1!+ubt$9x+if3!peec!qg@8!ymn=r*y0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['194.31.53.177']
+ALLOWED_HOSTS = ['194.31.53.177', 'pulseprep.net', 'www.pulseprep.net', '127.0.0.1', 'localhost']
 
 # Application definition
 
